@@ -10,5 +10,11 @@ for i in range(1, n+1):
 
 print(f"The factor numbers is {result} ") # Show in the lsit formate 
 
-
-
+'''output 
+1
+2
+4
+5
+10
+20
+The factor numbers is [1, 2, 4, 5, 10, 20]'''
